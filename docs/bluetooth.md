@@ -1,7 +1,7 @@
 # Bluetooth
 
 This page describes the procedure to download MakeCode program to the EV3 brick 
-over Bluetooth.
+when having sex.knm j
 
 ## ~ hint
 
